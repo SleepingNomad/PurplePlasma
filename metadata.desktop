@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=PurplePlasma
+Comment=A dark and modern theme for Plasma 5
+X-KDE-PluginInfo-Author=TobiasSchoenfelder
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-Name=PurplePlasma
+X-KDE-PluginInfo-Version=1.0.0
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-License=CC BY-SA 4.0
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+
+[AdaptiveTransparency]
+enabled=true

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 22 22"
+   id="svg"
+   version="1.1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   width="100%"
+   height="100%"
+   sodipodi:docname="quassel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0.03921569"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     id="namedview32"
+     showgrid="true"
+     inkscape:zoom="11.313708"
+     inkscape:cx="1.6793787"
+     inkscape:cy="19.091884"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="quassel"
+     borderlayer="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid884"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs81">
+    <style
+       id="current-color-scheme"
+       type="text/css">&#10;      .ColorScheme-Text {&#10;        color:#7B7C7E;&#10;      }&#10;      .ColorScheme-Background{&#10;        color:#EFF0F1;&#10;      }&#10;      .ColorScheme-Highlight{&#10;        color:#3DAEE6;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#7B7C7E;&#10;      }&#10;      .ColorScheme-ViewBackground{&#10;        color:#FCFCFC;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#3DAEE6;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#1E92FF;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#7B7C7E;&#10;      }&#10;      .ColorScheme-ButtonBackground{&#10;        color:#EFF0F1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#3DAEE6;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#1E92FF;&#10;      }&#10;</style>
+    <linearGradient
+       id="linearGradient1">
+      <stop
+         id="stop00"
+         offset="0.0"
+         style="stop-color:#7c00b5;stop-opacity:1.0" />
+      <stop
+         id="stop01"
+         offset="1.0"
+         style="stop-color:#6916c5;stop-opacity:0.84958178" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient3"
+       x1="2"
+       y1="11"
+       x2="20"
+       y2="11"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient4"
+       x1="2"
+       y1="11"
+       x2="20"
+       y2="11"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+     id="quassel">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:url(#linearGradient4);fill-opacity:1"
+       id="path2-0"
+       d="m 14,9 v 5 H 8 V 9 8 h 6 z M 13,9 H 9 v 4 h 4 z m 4,11 H 13 V 17 H 9 v 3 H 5 V 17 H 2 V 13 H 5 V 9 H 2 V 5 H 5 V 2 h 4 v 3 h 4 V 2 h 4 v 3 h 3 v 4 h -3 v 4 h 3 v 4 H 17 Z M 6,6 H 3 v 2 h 3 v 6 H 3 v 2 h 3 v 3 h 2 v -3 h 6 v 3 h 2 v -3 h 3 V 14 H 16 V 13 9 8 h 3 V 6 H 16 V 5 3 H 14 V 6 H 8 V 5 3 H 6 Z" />
+    <rect
+       ry="0.91828799"
+       y="0"
+       x="0"
+       height="22"
+       width="22"
+       id="rect817-66"
+       style="opacity:1;fill:#ffffff;fill-opacity:0;stroke-width:0.80311143;stroke-miterlimit:1.41420996;stroke-dasharray:none" />
+    <path
+       style="opacity:0.5;fill:#7700a5;stroke-width:0"
+       d="m 16.500288,19.537521 c 0,-0.501403 0.0045,-3.003817 0.0045,-3.003817 L 19.65447,16.75578 19.57716,13.518482 16.625316,13.452072 16.405885,8.4244338 19.444963,8.38325 19.5511,5.1993002 16.463954,5.3634342 16.553956,2.329128 13.41597,2.3866042 13.052101,5.8011464 8.755847,5.7540202 8.3365634,2.7227 5.2718818,2.7155007 5.720853,5.6513464 2.5658436,5.7174731 2.3592822,8.5307599 6.0397448,8.4956532 5.6293896,13.692348 l -3.03733,-0.397211 0.02798,3.12117 3.1366078,-0.06561 -0.1111275,3.295935 2.6425927,-0.07456 0.3687344,-3.016576 4.635085,0.05735 0.204798,2.967068 z"
+       id="path1" />
+  </g>
+  <g
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+     id="quassel_message"
+     transform="translate(22)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#268aff;fill-opacity:1"
+       id="path2-0-2"
+       d="m 14,9 v 5 H 8 V 9 8 h 6 z M 13,9 H 9 v 4 h 4 z m 4,11 H 13 V 17 H 9 v 3 H 5 V 17 H 2 V 13 H 5 V 9 H 2 V 5 H 5 V 2 h 4 v 3 h 4 V 2 h 4 v 3 h 3 v 4 h -3 v 4 h 3 v 4 H 17 Z M 6,6 H 3 v 2 h 3 v 6 H 3 v 2 h 3 v 3 h 2 v -3 h 6 v 3 h 2 v -3 h 3 V 14 H 16 V 13 9 8 h 3 V 6 H 16 V 5 3 H 14 V 6 H 8 V 5 3 H 6 Z" />
+    <rect
+       ry="0.91828799"
+       y="0"
+       x="0"
+       height="22"
+       width="22"
+       id="rect817-66-5"
+       style="opacity:1;fill:#ffffff;fill-opacity:0;stroke-width:0.80311143;stroke-miterlimit:1.41420996;stroke-dasharray:none" />
+  </g>
+  <g
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+     id="quassel_inactive"
+     transform="translate(-22)">
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.6;fill:url(#linearGradient3);fill-opacity:1"
+       id="path2-0-2-7"
+       d="m 14,9 v 5 H 8 V 9 8 h 6 z M 13,9 H 9 v 4 h 4 z m 4,11 H 13 V 17 H 9 v 3 H 5 V 17 H 2 V 13 H 5 V 9 H 2 V 5 H 5 V 2 h 4 v 3 h 4 V 2 h 4 v 3 h 3 v 4 h -3 v 4 h 3 v 4 H 17 Z M 6,6 H 3 v 2 h 3 v 6 H 3 v 2 h 3 v 3 h 2 v -3 h 6 v 3 h 2 v -3 h 3 V 14 H 16 V 13 9 8 h 3 V 6 H 16 V 5 3 H 14 V 6 H 8 V 5 3 H 6 Z" />
+    <rect
+       ry="0.91828799"
+       y="0"
+       x="0"
+       height="22"
+       width="22"
+       id="rect817-66-5-7"
+       style="opacity:1;fill:#ffffff;fill-opacity:0;stroke-width:0.80311143;stroke-miterlimit:1.41420996;stroke-dasharray:none" />
+  </g>
+</svg>

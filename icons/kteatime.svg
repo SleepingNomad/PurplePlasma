@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg4153"
+   version="1.1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   width="22"
+   height="22"
+   sodipodi:docname="kteatime.svg"
+   viewBox="0 0 22 22"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10000"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     id="namedview4155"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:zoom="10.545051"
+     inkscape:cx="-11.379746"
+     inkscape:cy="3.6984174"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="kteatime"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata4159">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4157">
+    <style
+       type="text/css"
+       id="current-color-scheme">&#10;      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      </style>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient4"
+       x1="2"
+       y1="11"
+       x2="20"
+       y2="11"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient1">
+      <stop
+         id="stop00"
+         offset="0.0"
+         style="stop-color:#7c00b5;stop-opacity:1.0" />
+      <stop
+         id="stop01"
+         offset="1.0"
+         style="stop-color:#6916c5;stop-opacity:0.84958178" />
+    </linearGradient>
+  </defs>
+  <inkscape:clipboard
+     style="opacity:0.01000001;fill:#00000f;fill-opacity:0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stroke:none"
+     min="0,0"
+     max="22,22" />
+  <g
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+     id="kteatime">
+    <path
+       inkscape:connector-curvature="0"
+       id="path2"
+       style="fill:url(#linearGradient4)"
+       d="M 13,20 H 5 v -1 h 8 z m 4,-5 h -1 c 0,1.656 -1.344,3 -3,3 H 5 C 3.344,18 2,16.656 2,15 V 6 h 14 v 2 h 1 c 1.656,0 3,1.344 3,3 v 1 c 0,1.656 -1.344,3 -3,3 z M 8,7 H 3 v 8 c 0,1.104 0.896,2 2,2 h 8 c 1.104,0 2,-0.896 2,-2 V 7 H 9 v 2 h 2 v 6 H 6 V 9 h 2 z m 2,4 H 7 v 3 h 3 z M 8,5 H 7 V 3 h 1 z m 6,0 H 13 V 3 h 1 z M 5,5 H 4 V 2 h 1 z m 6,0 H 10 V 2 h 1 z m 6,9 c 1.104,0 2,-0.896 2,-2 V 11 C 19,9.896 18.104,9 17,9 h -1 v 5 z" />
+    <rect
+       y="0"
+       x="0"
+       height="22"
+       width="22"
+       id="rect817"
+       style="fill:#ffffff;fill-opacity:0;stroke-width:1.17622733" />
+    <path
+       style="opacity:0.5;fill:#7700a5;stroke-width:0"
+       d="m 4.5579121,17.432645 9.8771019,-0.02388 1.132337,-2.435213 1.269132,-0.61194 2.242644,-0.572975 0.610181,-2.609479 L 19.257063,9.6510847 17.805006,8.5552644 15.7885,8.6263125 15.564324,6.4973506 2.5438312,6.5301282 2.4151573,14.737995 2.9914375,16.708943 Z"
+       id="path1" />
+    <path
+       style="opacity:0.5;fill:#7700a5;stroke-width:0"
+       d="M 10.443953,14.448303 10.503871,9.6288065 6.6282239,10.043027 6.4101422,14.280004 Z"
+       id="path3" />
+  </g>
+</svg>
